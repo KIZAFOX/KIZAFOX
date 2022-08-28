@@ -1,41 +1,76 @@
-# 🖐 Présentation
-Salut ! Je m'appelle Victor j'ai 19 ans. Je développe à mes heures perdues, surtout en Java.
+<div align="center">
+  <div id="header">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
 
-# 💪 Mes compétences
+  <div id="badges">
+    <a href="ĸιzaғoх#1132">
+      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCaHSzp66O4A6zBFnXtXpMqA">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/KIZAFOX">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  
+  <h1>
+    Hello,
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <div>
+    <img src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art" width="600" height="300"/>
+  </div>
+</div>
 
-### Langages
 
-- [JAVA](https://docs.oracle.com/javase/8/docs/api/), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [PHP](https://www.php.net/docs.php) [RUBY](https://ruby-doc.org/), [POWERSHELL](https://docs.microsoft.com/fr-fr/powershell/)
+---
 
-### Workflow
+### :man_technologist: About me :
+I'm a beginner developper from France and I'm currently learning web.
 
-- [GIT](https://git-scm.com/doc), [REDIS](https://redis.io/documentation), [GRADLE](https://docs.gradle.org/current/userguide/userguide.html), [MAVEN](https://maven.apache.org/guides/)
+- :telescope: I'm currently working on NightMC.
 
-### SQL
+- :seedling: Learn new things and improve my current projects.
 
-- [MONGODB](https://docs.mongodb.com/), [MYSQL](https://dev.mysql.com/doc/)
+- :zap: In my free time, I'm playing League Of Legends and create minecraft plugins.
 
-### Framework
+- :mailbox:How to reach me **@KIZAFOX** on twitter.
 
-- [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/), [ANGULAR](https://angular.io/docs)
+---
 
-### Applications
+### :hammer_and_wrench: Languages and Tools :
 
-- [PHOTOSHOP](https://www.adobe.com/fr/products/photoshop.html), [OFFICE](https://www.office.com/), [JETBRAIN](https://www.jetbrains.com/), [VSCODE](https://code.visualstudio.com/), [ECLIPSE](https://www.eclipse.org/downloads/), [BALSAMIQ](https://balsamiq.com/), [EVERNOTE](https://evernote.com/intl/fr)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntellIJ" alt="IntellIJ" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
 
-### RUNTIME
+---
 
-- [NODEJS](https://nodejs.org/en/docs/)
+### :fire: My Stats :
 
-![icons technologies](https://github.com/KIZAFOX/KIZAFOX/blob/main/icon-kizafox.png)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KIZAFOX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-# 🔗 Viens me suivre sur mes réseaux
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIZAFOX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kizafox?color=%231DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/hakkaofdev)
-[![Github Follow](https://img.shields.io/github/followers/kizafox?color=black&label=GITHUB&style=for-the-badge)](https://github.com/KIZAFOX)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=ĸιzaғoх%231132&color=7289DA&logo=Discord&style=for-the-badge)](https://torpex.fr/)
-[![Twitch Status](https://img.shields.io/twitch/status/ic_kizafox?color=purple&logo=twitch&style=for-the-badge)](https://www.twitch.tv/ic_kizafox)
+---
 
-# 📊 Mes statistiques GitHub
+### :writing_hand: Blog Posts :
 
-![KIZAFOX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIZAFOX&theme=dark&show_icons=true)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
