@@ -31,7 +31,7 @@
 ### :man_technologist: About me :
 I'm a beginner developper from France and I'm currently learning web.
 
-- :telescope: I'm currently working on NightMC.
+- :telescope: I'm currently working on Bloodshed.
 
 - :seedling: Learn new things and improve my current projects.
 
@@ -69,9 +69,3 @@ I'm a beginner developper from France and I'm currently learning web.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIZAFOX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [NightMC](https://dev.to/kizafox/nightmc-492m)
-<!-- BLOG-POST-LIST:END -->
