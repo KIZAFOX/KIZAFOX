@@ -30,13 +30,13 @@
 ### :man_technologist: About me :
 I'm a beginner developper from France and I'm currently learning web.
 
-- :telescope: I'm currently working on Bloodshed.
+- :telescope: I'm currently working on PeyjeymCoaching.
 
 - :seedling: Learn new things and improve my current projects.
 
 - :zap: In my free time, I'm playing League Of Legends and create minecraft plugins.
 
-- :mailbox:How to reach me **@KIZAFOX** on twitter.
+- :mailbox: How to reach me **@KIZAFOX** on twitter.
 
 ---
 
@@ -48,6 +48,8 @@ I'm a beginner developper from France and I'm currently learning web.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -65,6 +67,6 @@ I'm a beginner developper from France and I'm currently learning web.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KIZAFOX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIZAFOX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=kizafox&show_icons=true&theme=transparent)
 
 ---
