@@ -58,11 +58,3 @@ I'm a beginner developper from France and I'm currently learning web.
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KIZAFOX&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=kizafox&show_icons=true&theme=transparent)
-
----
