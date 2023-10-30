@@ -28,7 +28,7 @@
 ### :man_technologist: About me :
 I'm a beginner developper from France and I'm currently learning web.
 
-- :telescope: I'm currently working on PeyjeymCoaching.
+- :telescope: I'm currently working on AzelCraft.
 
 - :seedling: Learn new things and improve my current projects.
 
