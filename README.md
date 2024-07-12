@@ -23,7 +23,7 @@ I come from France and I'm currently studying.
 
 ### 📚 Skills:
 
-[![Skills](https://skillicons.dev/icons?i=java,html5,css3,js,php)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,html,css,js,php,mysql,redis,mongo,bootstrap,tailwind)](https://skillicons.dev)
 
 ### 💻 Softwares & others:
 
