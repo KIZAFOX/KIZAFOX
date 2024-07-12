@@ -1,29 +1,6 @@
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7962C&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Victor+(know+as+Victor);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/>
-
-<div align="center">
-  <div id="badges">
-    <a href="ĸιzaғoх#1132">
-      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCaHSzp66O4A6zBFnXtXpMqA">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/KIZAFOX">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <div>
-    <img src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art" width="600" height="300"/>
-  </div>
-</div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e79c00C&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Victor+(know+as+Victor);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/>
 
 ---
 
