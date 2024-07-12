@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e79c00C&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Victor+(know+as+Victor);%E2%A4%B5%EF%B8%8F+See+my+projects+below](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A733&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Victor+(know+as+Victor);%E2%A4%B5%EF%B8%8F+See+my+projects+below)"/>
 
+<div id="center">
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/312654382586134529?theme=dark&animated=true">
+</div>
+
 ---
 
 ### :man_technologist: About me :
