@@ -11,24 +11,36 @@
 ### :man_technologist: About me :
 I come from France and I'm currently studying.
 
-- 🔭 I'm currently working on ?
+  🔭 I'm currently working on ?
 
-- 🌱 Learn new things and improve my current skills.
+  🌱 Learn new things and improve my current skills.
 
-- ⚡ In my free time, I play League... and work on my projects of course.
+  ⚡ In my free time, I play League... and work on my projects of course.
 
-- 📫 How to reach me **@KIZAFOX** on twitter or **.kizafox** on discord.
+  📫 How to reach me **@KIZAFOX** on twitter or **.kizafox** on discord.
 
 ---
 
 ### 📚 Skills:
 
-[![Skills](https://skillicons.dev/icons?i=java,html,css,sass,js,php,py,git,mysql,redis,mongodb,bootstrap,tailwind,react)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,html,css,sass,js,php,py,mysql,redis,mongodb,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ### 💻 Softwares & others:
 
-[![Softwares](https://skillicons.dev/icons?i=discord,idea,gradle,maven,vscode,sublime,nodejs,npm,postman,sqlite,github,linux,grafana)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=discord,idea,vscode,sublime,mavenn,gradle,nodejs,npm,postman,git,github,linux)](https://skillicons.dev)
 
 ---
 
 ### ♨️ Project:
+
+<div align="center"> 
+	<a href="https://github.com/KIZAFOX/TeeOlympics-Minecraft">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KIZAFOX&repo=TeeOlympics-Minecraft&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+	<a href="https://github.com/KIZAFOX/PearlAntiCheat">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KIZAFOX&repo=PearlAntiCheat&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+  <a href="https://github.com/KIZAFOX/AndoraQuest">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KIZAFOX&repo=AndoraQuest&hide_border=true&theme=vision-friendly-dark" />
+	</a>
+</div>
