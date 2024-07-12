@@ -23,11 +23,11 @@ I come from France and I'm currently studying.
 
 ### 📚 Skills:
 
-[![Skills](https://skillicons.dev/icons?i=java,html,css,js,php,mysql,redis,mongo,bootstrap,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,html,css,js,php,git,mysql,redis,mongo,bootstrap,tailwind)](https://skillicons.dev)
 
 ### 💻 Softwares & others:
 
-[![Softwares](https://skillicons.dev/icons?i=discord,idea,vscode,postgres,cloudflare,github,linux,grafana)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=idea,vscode,node,sqlite,github,linux,grafana)](https://skillicons.dev)
 
 ---
 
