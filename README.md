@@ -27,7 +27,7 @@ I come from France and I'm currently studying.
 
 ### 💻 Softwares & others:
 
-[![Softwares](https://skillicons.dev/icons?i=discord,idea,vscode,sublime,mavenn,gradle,nodejs,npm,postman,git,github,linux)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=discord,idea,vscode,sublime,maven,gradle,nodejs,npm,postman,git,github,linux)](https://skillicons.dev)
 
 ---
 
